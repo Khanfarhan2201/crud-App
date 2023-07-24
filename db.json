@@ -1,0 +1,61 @@
+{
+  "enquiry": [
+    {
+      "firstName": "farhan",
+      "lastName": "khan",
+      "email": "farhannizami2000@gmail.com",
+      "mobile": 6307716885,
+      "weight": 60,
+      "height": 5.8,
+      "bmi": 19.1984133472825,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Quarterly",
+      "important": [
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-06-13T18:30:00.000Z",
+      "id": 3
+    },
+    {
+      "firstName": "faizan",
+      "lastName": "khan",
+      "email": "faiz@gmail.com",
+      "mobile": 4564564563,
+      "weight": 55,
+      "height": 6,
+      "bmi": 16.444863136639853,
+      "bmiResult": "Underweight",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Building Lean Muscle"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-17T18:30:00.000Z",
+      "id": 4
+    },
+    {
+      "firstName": "adnan",
+      "lastName": "khan",
+      "email": "aduu@gmail.com",
+      "mobile": 4584584583,
+      "weight": 45,
+      "height": 5,
+      "bmi": 19.375038750077497,
+      "bmiResult": "Normal",
+      "gender": "Male",
+      "requireTrainer": "Yes",
+      "package": "Monthly",
+      "important": [
+        "Healthier Digestive System"
+      ],
+      "haveGymBefore": "No",
+      "enquiryDate": "2023-07-17T18:30:00.000Z",
+      "id": 5
+    }
+  ]
+}
